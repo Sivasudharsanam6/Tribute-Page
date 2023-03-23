@@ -1,0 +1,72 @@
+* {
+    margin: 30;
+    padding: 30;
+    box-sizing: border-box;
+}
+
+.box {
+    background-color: rgba(135, 207, 235, 0.5);
+    opacity: .8;
+    /* min-height: 150rem; */
+    min-width: 5rem;
+    border: 10px solid darkblue;
+}
+
+.image {
+    margin-top: 90px;
+    margin-left: 100px;
+}
+
+h1 {
+    font-size: 50px;
+    font-weight: bold;
+    color: black;
+    text-transform: uppercase;
+}
+
+h4 {
+    font-size: 30px;
+    text-align: end;
+    /* padding: 5px 0px 5px 0px; */
+}
+
+.top_sec {
+    margin-top: 10px;
+    margin-right: 250px;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+}
+
+h2 {
+    font-size: 70px;
+    font-weight: 400;
+    margin-bottom: 20px;
+    margin-left: 100px;
+}
+
+p {
+    font-size: 20px;
+    line-height: 30px;
+    letter-spacing: 1.2px;
+    text-align: justify;
+    margin-left: 100px;
+    margin-right: 100px
+}
+
+ul {
+    font-size: 20px;
+    line-height: 30px;
+    letter-spacing: 1.2px;
+    text-align: justify;
+    margin-left: 100px;
+    margin-right: 100px
+}
+
+.biography_sec li {
+    margin-bottom: 15px;
+}
+
+a {
+    border-bottom: none;
+}
